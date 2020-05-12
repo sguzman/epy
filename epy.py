@@ -76,7 +76,8 @@ CFG = {
         "ShowBookmarks": "B",
         "Quit": "q",
         "Help": "?",
-        "SwitchColor": "c"
+        "SwitchColor": "c",
+        "ReadCurrentPageOutLoud": "C-b"
     }
 }
 STATE = {
